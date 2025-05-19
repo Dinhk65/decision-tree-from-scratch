@@ -24,6 +24,11 @@ Notebook này được tạo ra với mục tiêu:
 | ✅ Mini Demo | Thử mô hình trên bộ dữ liệu giả lập nhỏ |
 
 ---
+## 🧠 Video Live:
+[https://youtube.com/live/xfNkzv8isd8?feature=share]
+
+## 🧠 Link Colab:
+[https://drive.google.com/file/d/1bLd82Fr8scb2Exoyb2UKReO7nJDbNNxw/view?usp=sharing]
 
 ## 📦 Yêu cầu môi trường
 
@@ -31,3 +36,4 @@ Notebook sử dụng các thư viện cơ bản:
 ```bash
 numpy
 Counter
+```
